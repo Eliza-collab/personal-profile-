@@ -1,0 +1,46 @@
+.h1 {
+   font-family: Arial, sans-serif;
+   font-size: 25px;
+   font-weight: bold;
+   text-align: center;
+   background-color: #3754e4;
+}
+
+img {
+   width: 200px;
+   height: 200px;
+   border-radius: 60%;
+   margin-left: 50px;
+   margin-top: 20px;
+   margin-right: 50%;
+   margin-bottom: 20px;
+}
+
+.box1 {
+   background-color: #f2f2f2;
+   padding: 20px;
+   margin: 20px;
+   border-radius: 10px;
+   text-align: center;
+}
+
+.box2 {
+   background-color:#4208a5;
+   text-align: center;
+   padding: 20px;
+   font-size: 20px;
+   font-family: Arial, sans-serif;
+}
+
+.box3 {
+   background-color: #cdcbcf;
+   padding: 20px;
+   margin: 20px;
+   border-radius: 10px;
+}
+
+.footer {
+   background-color: #3754e4;
+   padding: 20px;
+   text-align: center;
+}
