@@ -3,16 +3,16 @@
    font-size: 25px;
    font-weight: bold;
    text-align: center;
-   background-color: #3754e4;
+   background-color: #4208a5;
 }
 
 img {
    width: 200px;
    height: 200px;
    border-radius: 60%;
-   margin-left: 50px;
+   margin-left: 100px;
    margin-top: 20px;
-   margin-right: 50%;
+   margin-right: 100%;
    margin-bottom: 20px;
 }
 
